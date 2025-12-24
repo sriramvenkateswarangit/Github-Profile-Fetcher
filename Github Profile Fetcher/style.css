@@ -1,0 +1,22 @@
+.container {
+    margin-top: 50px;
+}
+#result img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+#repos {
+    margin-top: 20px;
+}
+.repo {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.repo a {
+    text-decoration: none;
+    color: #007bff;
+}
